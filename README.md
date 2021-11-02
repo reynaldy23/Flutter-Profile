@@ -1,4 +1,4 @@
-# contact_nfc
+# Flutter Profile app
 
 First Flutter project for Profile
 
