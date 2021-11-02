@@ -1,16 +1,18 @@
 # contact_nfc
 
-A new Flutter project.
+First Flutter project for Profile
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Materials learned:
+1. Stateless/ful widget to use flutter hot reload
+2. hot reload only reload the code inside the stateles/ful widget
+3. widgets:
+   - card
+   - column (mainAxisAlignment: center to make all widgets wrapped goes center or any position wanted)
+   - container
+   - divider
+   - sizedbox(usually for spacing, or can be use to wrap with other widget as spacing like container, such as divider)
+   - fonts(via pubspec.yaml (fonts:) or google fonts library)
+   - image
+   - list tile
+   - row
+   - circle avatar
