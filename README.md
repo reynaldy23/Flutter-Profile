@@ -3,8 +3,8 @@
 First Flutter project for Profile
 
 Materials learned:
-1. Stateless/ful widget to use flutter hot reload
-2. hot reload only reload the code inside the stateles/ful widget
+1. Stateless/ful widget is required to use flutter hot reload
+2. hot reload is only usable for the code inside the stateless widget
 3. widgets:
    - card
    - circle avatar
@@ -16,5 +16,5 @@ Materials learned:
    - image
    - list tile
    - row
-   - sizedbox(usually for spacing, or can be use to wrap with other widget as spacing like container, such as divider)
+   - sizedbox (usually for spacing, or can be use to wrap with other widget as spacing like container, such as divider)
 
