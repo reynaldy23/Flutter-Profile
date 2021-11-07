@@ -12,8 +12,8 @@ Materials learned:
    - container
    - debugShowCheckedModeBanner: false (to hide debug banner when emulating at the device)
    - divider
-   - fonts(via pubspec.yaml (fonts:) or google fonts library)
-   - image
+   - fonts (via pubspec.yaml (fonts:) or google fonts library)
+   - image (via network or local image)
    - list tile
    - row
    - sizedbox (usually for spacing, or can be use to wrap with other widget as spacing like container, such as divider)
